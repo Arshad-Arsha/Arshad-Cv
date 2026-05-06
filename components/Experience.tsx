@@ -6,7 +6,7 @@ import TypeWriter from "@/components/TypeWriter";
 
 const experiences = [
   {
-    period: "Apr 2023 — Present",
+    period: "Sep 2023 — Present",
     role: "Software Developer",
     company: "Posibolt Solutions Pvt. Ltd.",
     location: "Kozhikode, Kerala",
